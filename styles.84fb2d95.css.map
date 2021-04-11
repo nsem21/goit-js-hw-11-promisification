@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,OACI,oBAAqB,CACrB,WAAY,CACZ,cACJ","file":"styles.84fb2d95.css","sourceRoot":"..\\src","sourcesContent":["button {\r\n    display: inline-block;\r\n    width: 120px;\r\n    font-size: 32px;\r\n}"]}
